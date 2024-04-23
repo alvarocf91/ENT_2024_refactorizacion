@@ -6,8 +6,23 @@ public class Tienda {
     private List<Cliente> clientes;
     private List<Pedido> pedidos;
 
-   
+    public void agregarProducto(Producto producto) {
+        // Lógica para agregar un producto
+    }
+
+    public void eliminarProducto(Producto producto) {
+        // Lógica para eliminar un producto
+    	
   
+
+	public void agregarProducto(Producto producto) {
+	    // Lógica para agregar un producto
+	}
+	
+	public void eliminarProducto(Producto producto) {
+	    // Lógica para eliminar un producto
+
+}
 
     public void agregarCliente(Cliente cliente) {
         // Lógica para agregar un cliente
